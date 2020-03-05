@@ -32,4 +32,7 @@ public class FirstClass {
     public void test() {
         System.out.println("xqgd");
     }
+    public void test1() {
+        System.out.println("dsf ");
+    }
 }
