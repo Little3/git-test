@@ -29,6 +29,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("修改");
+        System.out.println("修改");
         System.out.println("添加内容");
         System.out.println("添加内容");
     }
